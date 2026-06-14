@@ -1,4 +1,4 @@
-# 🍽️ MealBridge
+#  MealBridge
 
 > A MERN Stack Food Donation Platform that connects food donors with NGOs and receivers to reduce food waste and support communities.
 
